@@ -41,5 +41,5 @@ curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET
 
 ```
 
-**Note: ** I didn't implement bonus point, I think it can be solved with new queue between two integer generator. Hovewer,
+**Note:** I didn't implement bonus point, I think it can be solved with new queue between two integer generator. Hovewer,
 with this solution one of the generator must wait for producing integer from other one.
