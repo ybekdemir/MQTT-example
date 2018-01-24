@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  integergenerator:
+    build: .
+    command: python3 integergenerator.py
+    volumes:
+      - .:/code
+    network_mode: "host"
+
+

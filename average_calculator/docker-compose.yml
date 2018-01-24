@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  averagecalculator:
+    build: .
+    command: python3 averagecalculator.py
+    volumes:
+      - .:/code
+    network_mode: "host"
+
+
+
