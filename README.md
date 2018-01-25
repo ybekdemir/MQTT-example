@@ -2,6 +2,8 @@
 
 Application for loopstock.io challenge with Docker, Django-rest and PostgreSQL via https://github.com/loopstock-io/challenges/tree/master/backend-devs
 
+![Image of services](https://raw.githubusercontent.com/loopstock-io/challenges/master/backend-devs/backend-challenge.png)
+
 ## 1. Installation
 Clone this repository.
 ```
