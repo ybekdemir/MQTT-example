@@ -1,6 +1,6 @@
 # WATTX CHALLENGE
 
-Application for loopstock.io challenge with Docker, Django-rest, PostgreSQL and Mosquitto via https://github.com/loopstock-io/challenges/tree/master/backend-devs
+Simple application which handle architecture below with Docker, Django-rest, PostgreSQL and Mosquitto.
 
 ![Image of services](https://raw.githubusercontent.com/loopstock-io/challenges/master/backend-devs/backend-challenge.png)
 
