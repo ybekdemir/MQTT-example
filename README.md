@@ -42,6 +42,3 @@ You can access API on http://localhost:8000/api/values/
 curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8000/api/values/
 
 ```
-
-**Note:** I didn't implement bonus point, I think it can be solved with new queue between two integer generator. Hovewer,
-with this solution one of the generator must wait for producing integer from other one.
