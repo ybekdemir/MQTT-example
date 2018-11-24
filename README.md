@@ -1,4 +1,3 @@
-# WATTX CHALLENGE
 
 Simple application which handle architecture below with Docker, Django-rest, PostgreSQL and Mosquitto.
 
